@@ -1,2 +1,2 @@
 # Digital-Image-Processing
-Some basic matlab and python practice
+Some basic practice on matlab and jupyter(python3)
