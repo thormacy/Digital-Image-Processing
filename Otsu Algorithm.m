@@ -1,3 +1,4 @@
+%Otsu Algorithm, ouput image is an binary image depends on threshold T
 clear all;
 image = imread('/Users/shengwan/Desktop/flower.bmp');
 [m,n] = size(image);
