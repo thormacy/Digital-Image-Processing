@@ -1,3 +1,4 @@
+%JPEG standard compress method for Y component of an image
 image = imread('/Users/shengwan/Desktop/lena512.jpg');
 image = double(image) - 128;
 fun = @dct2;
